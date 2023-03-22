@@ -1,0 +1,17 @@
+header{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+
+button{
+    background-color: crimson;
+    color: white;
+}
+body{
+    background-color: gray;
+}
+
+#mohawk-guy{
+    margin-top: 45px;
+    visibility: hidden;
+}
