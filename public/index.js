@@ -9,7 +9,7 @@ const hairstyleBtn = () => {
     let randomHairstyle = hairstyles[randomNum]
     alert(`Do a ${randomHairstyle}!`)
    
-    if(randomHairstyle = "Mohawk"){
+    if(randomHairstyle === "Mohawk"){
         mohawkImg.style.visibility = 'visible' 
     } 
 }
